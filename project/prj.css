@@ -1,0 +1,36 @@
+**{
+    margin: 0;
+    padding: 0;
+}
+
+.main{
+    width: 100%;
+    background: linear-gradient(to top,rgba(133, 127, 127, 0.849) 50% ,rgba(202, 80, 31, 0.747) 70%),url();
+    background-position: center;
+    background-size: cover;
+    height: 109vh;
+}
+.content{
+    width: 1200px;
+    color: rgb(216, 201, 201);
+    margin: auto;
+    position: relative;
+}
+.par{
+    color: rgb(201, 189, 189);
+    margin: auto;
+    
+}
+.heding{
+    color: rgb(34, 93, 148);
+    width: 1200px;
+    font-style: italic;
+}
+.cn{
+    color: blueviolet;
+}
+
+
+
+    
+
